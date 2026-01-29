@@ -2,7 +2,7 @@
 > **Intent-Based Routing for the AI Era.**
 
 ![Greenference Banner](/public/leaf.svg)
-
+[Demo Video](https://youtu.be/0Z0JmyaDLB0)
 ## The Problem: The "Ferrari for a Grocery Run"
 We use massive, energy-hungry "Frontier Models" (like GPT-4 or Claude 3.5) for trivial tasks (e.g., "Hi," "What is 2+2?"). This inefficiency results in massive, unnecessary carbon emissions.
 
